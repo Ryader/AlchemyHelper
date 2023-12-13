@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetForm>
+ <Name>mainForm</Name>
+ <Priority>1200</Priority>
+ <Children>
+  <Item href="ouText.(WidgetTextView).xdb#xpointer(/WidgetTextView)" />
+ </Children>
+ <Placement>
+  <QuantumScale>false</QuantumScale>
+  <sizingWidget href="" />
+  <sizingWidgets />
+  <X>
+   <Align>WIDGET_ALIGN_BOTH</Align>
+   <Sizing>WIDGET_SIZING_DEFAULT</Sizing>
+   <Pos>300</Pos>
+   <HighPos>300</HighPos>
+   <Size>0</Size>
+  </X>
+  <Y>
+   <Align>WIDGET_ALIGN_LOW</Align>
+   <Sizing>WIDGET_SIZING_DEFAULT</Sizing>
+   <Pos>800</Pos>
+   <HighPos>0</HighPos>
+   <Size>300</Size>
+  </Y>
+ </Placement>
+ <Visible>true</Visible>
+ <Enabled>true</Enabled>
+ <TabOrder>0</TabOrder>
+ <bindSections />
+ <TransparentInput>true</TransparentInput>
+ <PickChildrenOnly>false</PickChildrenOnly>
+ <IgnoreDblClick>false</IgnoreDblClick>
+ <fade>1</fade>
+</WidgetForm>

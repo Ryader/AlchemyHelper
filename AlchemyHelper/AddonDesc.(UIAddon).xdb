@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UIAddon>
+  <Name>AlchemyHelper</Name>
+  <AutoStart>true</AutoStart>
+  <ScriptFileRefs>
+    <Item href="Script/AlchemyHelper.luac"/>
+    <Item href="Script/AlchemyPanel.luac"/>
+  </ScriptFileRefs>
+  <Form href="Main.(WidgetForm).xdb#xpointer(/WidgetForm)"/>
+  <addon_name>AlchemyHelper</addon_name>
+  <localizedNameFileRef href="name.txt"/>
+  <localizedDescFileRef href="desc.txt"/>
+</UIAddon>
